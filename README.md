@@ -18,6 +18,6 @@
 ### Whatsapp:
 > +55 (85) 992746184
 ### Discord:
-> Brazz#....
+> Brazz#5440
 ### Instagram:
 > @Brazz.x1
