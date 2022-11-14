@@ -1,2 +1,8 @@
-# samp-website
-Web-Site para SA-MP
+# Site para SA-MP
+
+## Pagina da web feito em:
+> HTML
+> CSS
+> JavaScript
+> Bootstrap
+> core.js
